@@ -67,7 +67,8 @@ h2{
 .e{
     background-color: aliceblue;
     color:bisque
-}
-table {
-    border: solid;
+        }
+.mySlides {display:none;}
+.p1{
+    float: right;
 }
