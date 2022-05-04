@@ -1,4 +1,4 @@
-li{
+ li{
     border: 4px solid;
     display:inline-block;
     margin: 3em;
@@ -74,7 +74,29 @@ h2{
 }
 .t1 {
     background-color: chocolate;
+    font-size: 50;
 }
 h3 {
     font-size:150%;
+}
+.ccc {
+    background-color: bisque;
+    color: cadetblue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.cccc {
+    font-size: 150%;
+    background-color: darkturquoise;
+}
+.Value {
+    color: red;
+    font-weight: bold;
+    
+}
+.vc {
+    color: brown;
+}
+.Slogan {
+    color: black;
+    font-weight: bolder;
 }
