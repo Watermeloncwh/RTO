@@ -104,9 +104,9 @@ h3 {
 footer { 
      position: fixed; 
     left: 10px; 
-     bottom: 5px; 
+     bottom: 6px; 
      right: 10px;  
-    width: 100%; 
+    width: 90%; 
      background-color: greenyellow;
      color: rgb(15, 88, 29); 
      text-align: center; 

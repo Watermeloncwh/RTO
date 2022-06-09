@@ -66,6 +66,7 @@ function validateform(){
    return false; 
   }
 }
+
 //This JS script is related to the form in HTML
 
 //, this JS script will determine whether the information you enter is wrong. If there is an error, the corresponding error will appear. When all the information is confirmed to be correct, click the button to jump to the mailbox
