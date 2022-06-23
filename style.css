@@ -69,7 +69,8 @@ font-size:200%;
     background-color: aliceblue;
     color:bisque
         }
-.mySlides {display:none;}
+.mySlides{
+background-position: center;}
 .p1{
     float: right;
 }
